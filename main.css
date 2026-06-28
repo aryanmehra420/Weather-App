@@ -1,0 +1,165 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background: linear-gradient(to right,#a8d0ff,#7fb6ff);
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    min-height: 100vh;
+}
+
+#allmain{
+    width: 420px;
+    min-height: 550px;
+
+    padding: 20px;
+
+    border-radius: 25px;
+
+    background: rgba(255,255,255,0.2);
+
+    backdrop-filter: blur(10px);
+
+    border: 2px solid rgba(255,255,255,0.5);
+
+    box-shadow: 0 10px 25px rgba(0,0,0,0.15);
+}
+
+#title{
+    text-align: center;
+    font-size: 28px;
+    font-weight: bold;
+
+    margin-bottom: 10px;
+}
+
+#iconweather{
+    text-align: center;
+    margin-bottom: 15px;
+}
+
+#yes{
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+
+    margin-bottom: 20px;
+}
+
+#search{
+    width: 250px;
+    height: 40px;
+
+    border: none;
+    border-radius: 10px;
+
+    padding-left: 12px;
+
+    background: white;
+
+    outline: none;
+}
+
+#btn{
+    width: 90px;
+
+    border: none;
+    border-radius: 10px;
+
+    background: #2d7fff;
+    color: white;
+
+    font-size: 16px;
+
+    cursor: pointer;
+}
+
+#btn:hover{
+    background: #1e68db;
+}
+
+#downmain{
+    background: white;
+
+    min-height: 320px;
+
+    border-radius: 15px;
+
+    padding: 20px;
+
+    text-align: center;
+
+    box-shadow: 0 4px 10px rgba(0,0,0,0.08);
+}
+
+.p{
+    background: transparent;
+}
+
+#cityname{
+    font-size: 30px;
+    font-weight: bold;
+}
+
+#datetime{
+    font-size: 14px;
+    color: gray;
+
+    margin-top: 5px;
+}
+
+#icon{
+    font-size: 65px;
+
+    margin-top: 20px;
+}
+
+#temp{
+    font-size: 60px;
+    font-weight: bold;
+
+    margin-top: 10px;
+}
+
+#wthr{
+    color: gray;
+
+    font-size: 20px;
+
+    margin-top: 5px;
+}
+
+#it{
+    display: flex;
+
+    justify-content: space-around;
+
+    margin-top: 35px;
+
+    padding-top: 20px;
+
+    border-top: 1px solid #ddd;
+}
+
+#humid,
+#feels{
+    text-align: center;
+}
+
+#humidtitle,
+#feelstitle{
+    font-weight: bold;
+
+    margin-bottom: 5px;
+}
+
+#humidindex,
+#feelindex{
+    font-size: 22px;
+}
