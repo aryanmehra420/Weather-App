@@ -11,7 +11,7 @@ A clean and responsive Weather App built using HTML, CSS and JavaScript. It fetc
 - Current weather condition
 - Real-time date
 - Error handling for invalid cities
-- Responsive UI
+- Responsive UI..
 
 ## 🛠️ Technologies Used
 
