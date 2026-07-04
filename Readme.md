@@ -18,7 +18,7 @@ A clean and responsive Weather App built using HTML, CSS and JavaScript. It fetc
 - HTML5
 - CSS3
 - JavaScript
-- OpenWeather API
+- OpenWeather API.
 
 ## 📸 Screenshot
 
