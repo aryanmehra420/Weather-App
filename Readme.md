@@ -10,7 +10,7 @@ A clean and responsive Weather App built using HTML, CSS and JavaScript. It fetc
 - Feels Like temperature.
 - Current weather condition.
 - Real-time date.
-- Error handling for invalid cities.
+- Error handling for invalid cities
 - Responsive UI
 
 ## 🛠️ Technologies Used
