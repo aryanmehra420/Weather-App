@@ -6,7 +6,7 @@ A clean and responsive Weather App built using HTML, CSS and JavaScript. It fetc
 
 - Search weather by city
 - Live temperature
-- Humidity.
+- Humidity
 - Feels Like temperature.
 - Current weather condition.
 - Real-time date
